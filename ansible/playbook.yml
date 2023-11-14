@@ -1,5 +1,8 @@
 ---
 - hosts: timeapp
+  vars: 
+    gituser: OdiDirk
+    gitpass: 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
   tasks:
     
     
